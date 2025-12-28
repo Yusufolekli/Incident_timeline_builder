@@ -1,6 +1,6 @@
-#Incident Timeline Builder
+Incident Timeline Builder
 
-##TR
+#TR
 
 Bu araç, bir siber güvenlik vakası sırasında gerçekleşen karmaşık olay akışlarını standart bir kronolojik yapıda birleştirerek analiz süresini kısaltmaktadır.
 
@@ -14,7 +14,7 @@ Veri Bütünlüğü: Tarayıcı tabanlı yerel depolama (LocalStorage) kullanara
 
 Yapılandırılmış Çıktı Yönetimi: Analiz sonuçları, resmi raporlar için TXT veya veri işleme sistemleri için JSON formatında hızlıca dışa aktarılabilir.
 
-##EN
+#EN
 
 This tool reduces analysis time by consolidating complex event flows occurring during a cybersecurity incident into a standard chronological structure.
 
