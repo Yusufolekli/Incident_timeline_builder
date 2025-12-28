@@ -1,14 +1,3 @@
-.avatar {
-  border-radius: 50%;
-  border: 2px solid white;
-}
-
-.one,
-.selector,
-.per-line {
-  // ...
-}
-
 Incident Timeline Builder
 
 TR
